@@ -19,6 +19,7 @@
 
 | Title         | Author     | Audible |
 |--------------|-----------|------------|
+| Outliers | Malcolm Gladwell | [Link](https://www.audible.com/pd/Outliers-Audiobook/B002UZDRK8?action_code=ASSGB149080119000H&share_location=pdp)
 | Site Reliability Engineering: How Google Runs Production Systems | Liz Porter | [Link](https://www.audible.com/pd/Site-Reliability-Engineering-Audiobook/B08VKYWGYD?action_code=ASSGB149080119000H&share_location=pdp) |
 | Principles: Life and Work |  Ray Dalio | [Link](https://www.audible.com/pd/Principles-Audiobook/B074B29GQJ?action_code=ASSGB149080119000H&share_location=pdp) |
 | Loonshots: How to nurture the crazy ideas that win wars, cure diseases, and transform industries | Safi Bahcall | [Link](https://www.audible.com/pd/Loonshots-Audiobook/1250203058?action_code=ASSGB149080119000H&share_location=pdp) |
